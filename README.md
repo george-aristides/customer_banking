@@ -13,13 +13,13 @@ The customer_banking.py imports the functions within the two aformentioned files
 
 **Run the Script**: Execute the script to start the ordering process.
 
-**Enter your Savings Account Balance**: Choose a category from Snacks, Meals, Drinks, or Desserts by typing the corresponding number.
+**Enter your Savings Account Information**: Choose a category from Snacks, Meals, Drinks, or Desserts by typing the corresponding number.
 
-3. **Select an Item**: Within the chosen category, select an item by typing its number.
+1. ***Select an Item***: Within the chosen category, select an item by typing its number.
 
-4. **Specify Quantity**: Enter the desired quantity of the selected item.
+2. ***Specify Quantity***: Enter the desired quantity of the selected item.
 
-5. **Continue or Complete Order**: Decide whether to continue ordering or to complete the order.
+3. ***Continue or Complete Order***: Decide whether to continue ordering or to complete the order.
 
-6. **Review Order**: Once the order is complete, the script will display a summary of all items ordered along with their prices and quantities, and calculate the total cost.
+**Review Order**: Once the order is complete, the script will display a summary of all items ordered along with their prices and quantities, and calculate the total cost.
 
